@@ -21,4 +21,12 @@
 body {
   font-size: 15px;
   background-color: var(--PCOLOR1);
+/*   max-width: 1440px;
+  height: auto;
+  margin: auto; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
